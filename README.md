@@ -3,7 +3,7 @@
 ## Description
 9.83 Million Pairs of Sentences - Chinese-Japanese Parallel Corpus Data be stored in txt format. It covers multiple fields including general, IT, news, patent, and international engine. The data desensitization and quality checking had been done. It can be used as a basic corpus for text data analysis in fields such as machine translation.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1069?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/nlu/1069?source=Github
 
 # Specifications
 ## Format
